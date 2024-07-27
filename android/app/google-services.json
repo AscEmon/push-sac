@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264542878675",
+    "project_id": "push-sbac",
+    "storage_bucket": "push-sbac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264542878675:android:08b485947bf0120fd18d26",
+        "android_client_info": {
+          "package_name": "com.sbac"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAko0kjioFGlUGqTMoaRlgSXMp6qbn_FKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
